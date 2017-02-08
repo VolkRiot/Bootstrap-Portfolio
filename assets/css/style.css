@@ -182,7 +182,8 @@ footer {
     text-align: center;
 }
 
-/*Fine Tuning*/
+
+/*Fine Tuning Reactive Appearance*/
 @media screen and (max-width:1199px){
 
     .panel.panel-default.connect {
@@ -204,6 +205,6 @@ footer {
     }
 
     .spacer{
-        height: 210px;
+        height: 240px;
     }
 }
