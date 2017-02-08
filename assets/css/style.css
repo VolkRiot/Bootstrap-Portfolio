@@ -190,6 +190,12 @@ footer {
     }
 }
 
+@media screen and (max-width:991px){
+    .panel.panel-default.connect {
+        height: 330px;
+    }
+}
+
 @media screen and (max-width:767px){
 
     #headshot{
