@@ -79,8 +79,8 @@ h3.panel-title{
 
 .imgContainer {
     position: relative;
-    width: 240px;
-    height: 215px;
+    width: 244px;
+    height: 195px;
     float: left;
 }
 
@@ -98,7 +98,7 @@ h3.panel-title{
     position: absolute;
     box-sizing: border-box;
     display: block;
-    width: 96%;
+    width: 94%;
     height: 50px;
     bottom: 75px;
     background-color: #4aaaa5;
@@ -152,6 +152,7 @@ button:hover{
 
 ul.list-inline{
     margin-left: 6px;
+    height: 50px;
 }
 
 .socialMedia{
