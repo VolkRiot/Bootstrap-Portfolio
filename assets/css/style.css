@@ -181,3 +181,10 @@ footer {
 .footerText{
     text-align: center;
 }
+
+/*Fine Tuning*/
+@media screen and (max-width:767px){
+    .spacer{
+        height: 210px;
+    }
+}
