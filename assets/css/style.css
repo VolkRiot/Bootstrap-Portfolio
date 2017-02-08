@@ -183,7 +183,20 @@ footer {
 }
 
 /*Fine Tuning*/
+@media screen and (max-width:1199px){
+
+    .panel.panel-default.connect {
+        height: 325px;
+    }
+}
+
 @media screen and (max-width:767px){
+
+    #headshot{
+        width: 100%;
+        margin-bottom: 3%;
+    }
+
     .spacer{
         height: 210px;
     }
