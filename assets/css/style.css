@@ -211,4 +211,8 @@ footer {
     .spacer{
         height: 240px;
     }
+
+    .panel.panel-default.connect {
+        height: 180px;
+    }
 }
