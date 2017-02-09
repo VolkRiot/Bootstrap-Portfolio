@@ -8,6 +8,10 @@ body {
     background-image: url("../images/escheresque.png");
 }
 
+.container.header-container{
+    padding-left: 30px;
+}
+
 nav.navbar.navbar-default.navbar-fixed-top{
     border-bottom: 2px #cccccc solid;
 }
