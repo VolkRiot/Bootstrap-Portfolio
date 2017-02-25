@@ -140,7 +140,7 @@ form {
     height: 190px;
 }
 
-button{
+#submitButton{
     border: none;
     background-color: #4aaaa5;
     color: white;
